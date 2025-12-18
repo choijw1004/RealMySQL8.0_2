@@ -30,6 +30,13 @@ Deep Dive into Real My SQL 8.0(2)
     - 민우: [잠금을 사용하는 SELECT](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/yukminwoo/week_03/11.4.13%20-%20%EC%9E%A0%EA%B8%88%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20SELECT.md)
     - 현재: [선착순 쿠폰 발급과 동시성 이슈](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/kimhyeonjae/3%EC%A3%BC%EC%B0%A8.%20%EC%84%A0%EC%B0%A9%EC%88%9C%20%EC%BF%A0%ED%8F%B0%20%EB%B0%9C%EA%B8%89%EA%B3%BC%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%EC%9D%B4%EC%8A%88.md)
 
+#### 4주차(2025.12.15 ~ 2025.12.18)
+- **범위** 148p ~ 165p (JOIN DELETE)
+- **세미나**
+    - 장우: [Bulk Insert]([https://github.com/BackEndDeepDive/RealMySQL8.0_2/tree/main/choijangwoo/week_3](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/choijangwoo/week_4/Bult%20Insert.md))
+    - 민우: [INSERT](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/yukminwoo/week_03/11.5%20-%20INSERT.md)
+    - 현재: [GROUP BY가 포함된 JOIN UPDATE](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/kimhyeonjae/4%EC%A3%BC%EC%B0%A8.%20GROUP%20BY%EA%B0%80%20%ED%8F%AC%ED%95%A8%EB%90%9C%20JOIN%20UPDATE.md)
+
 
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
