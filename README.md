@@ -33,7 +33,7 @@ Deep Dive into Real My SQL 8.0(2)
 #### 4주차(2025.12.15 ~ 2025.12.18)
 - **범위** 148p ~ 165p (JOIN DELETE)
 - **세미나**
-    - 장우: [Bulk Insert]([https://github.com/BackEndDeepDive/RealMySQL8.0_2/tree/main/choijangwoo/week_3](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/choijangwoo/week_4/Bult%20Insert.md))
+    - 장우: [Bulk Insert](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/choijangwoo/week_4/Bult%20Insert.md)
     - 민우: [INSERT](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/yukminwoo/week_03/11.5%20-%20INSERT.md)
     - 현재: [GROUP BY가 포함된 JOIN UPDATE](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/kimhyeonjae/4%EC%A3%BC%EC%B0%A8.%20GROUP%20BY%EA%B0%80%20%ED%8F%AC%ED%95%A8%EB%90%9C%20JOIN%20UPDATE.md)
 
